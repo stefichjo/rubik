@@ -76,16 +76,18 @@ T* = L*'
 -----
 
 Diagonal Corner Swap
-`(F R U' R' U' R U R' F')(R U R' U' R' F R F')`
-`'[( R U R' F' )]: U'; [R U]; [R' F]`
+* `(F R U' R' U' R U R' F')(R U R' U' R' F R F')`
+* `'[( R U R' F' )]: U'; [R U]; [R' F]`
+  * ---
+* `'||(R U R' F'): U'; (R U)=' (R' F')='`
 
 Adjacent Corner Swap (on the right side)
-`(R U R' U' R' F R F')(F R U' R' U' R U R' F')`
-`[R U]; [R' F]; '[( R U R' F' )]: U'`
+* `(R U R' U' R' F R F')(F R U' R' U' R U R' F')`
+* `[R U]; [R' F]; '[( R U R' F' )]: U'`
 
 Opposite Corner Swap (see Opposite Edge Swap instead)
-`M2 U M2 U M2 U M2 U M2 U M2 U` = `M2 U ×6`
-`M2 U M2 U2 M2 U M2 U2` = `||M2 U; U M2; U||` = `||M2 U M2 U2||` = `|| (||M2 U|| U) ||`
+* `M2 U M2 U M2 U M2 U M2 U M2 U` = `M2 U ×6`
+* `M2 U M2 U2 M2 U M2 U2` = `||M2 U; U M2; U||` = `||M2 U M2 U2||` = `|| (||M2 U|| U) ||`
 
 -----
 
