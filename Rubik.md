@@ -7,6 +7,7 @@
 ## OneFitsAll
 
 __`( (R E)⁴ ; U/U2/U'/0 )²`__
+<br>`(R E R E R E R E U/U2/U'/0)²`
 
 ## Line
 
@@ -20,13 +21,14 @@ __`[f: R U]`__
 
 ## Dot
 
-__`Line ; L shape`__
+__`Line; L shape`__
 
 # CORNERS Orientation
 
 ## OneFitsAll - flips front right corner
 
-__`( [R F']² ; U/U2/U'/0 )³`__
+__`([R F']²; U/U2/U'/0)³`__
+<br>`(R F' R' F R F' R' F U/U2/U'/0)³`
 
 ## H = Line3
 
@@ -35,10 +37,12 @@ __`[F]: [R U]³`__
 
 ## (Sune)
 __`[R: U: R' U]`__
+<br>__`[: R U (R' U)]`__
 <br>`R U R' U R U2 R'`
 
 ## (Antisune)
 __`[L': U': L U']`__
+<br>__`[: L' U' (L U')]`__
 <br>`L' U' L U' L' U2 L`
 
 ## Sune* = Antisune': T → Antisune*; Pi*** → Sune; U*** → Antisune***; L** → Antisune**
@@ -54,6 +58,7 @@ __`R U2; (R': U')²: R`__
 # Pi*
 
 __`(R: U2: R2: U': R)²`__
+<br>__`(: R U2 R2 U' R)²`__
 <br>`R U2 R2 U' R2 U' R2 U2 R`
 
 # U**
@@ -68,17 +73,17 @@ __`[R] (U2 R)² [D]; R2`__
 __`[x]: (U)² [R'] (U')² [L]`__ <!-- TODO R = L_ -->
 <br>`x U R' U' L U R U' L' x'`
 
-L*
-`x R' U R D' R' U' R D x'`
-`[x]: [ (R' U R) D' ]`
+# T***
+__`[x]: [L] (U)² [R'] (U')²`__
+<br>`x L U R' U' L' U R U' x'`
 
-T***
-`x L U R' U' L' U R U' x'`
-`[x]: [L] ||U|| [R'] ||U'||`
+# L*
+__`[x]: (R' U R)² [D']`__
+<br>`x R' U R D' R' U' R D x'`
 
-T* = L*'
+# T* = L*'
+__`[x]: [D'] (R' U R)²`__
 `x D' R' U R D R' U' R x'`
-`[x]: [D' (R' U R)]`
 
 -----
 
