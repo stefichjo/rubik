@@ -57,8 +57,8 @@ __`(R: U2: R2: U': R)²`__
 <br>`R U2 R2 U' R2 U' R2 U2 R`
 
 # U**
-`R2; [D] ||R' U2|| [R]`
-`R2 D R' U2 R D' R' U2 R'`
+__`R2; [D] (R' U2)² [R]`__
+<br>`R2 D R' U2 R D' R' U2 R'`
 
 L* = U**'
 `R U2 R D R' U2 R D' R2`
