@@ -11,12 +11,12 @@ __`( (R E)⁴ ; U/U2/U'/0 )²`__
 ## Line
 
 __`[F: R U]`__
-<br><small>`F R U R' U' F'`</small>
+<br>`F R U R' U' F'`
 
 ## L shape
 
 __`[f: R U]`__
-<br><small>`f R U R' U' f'`</small>
+<br>`f R U R' U' f'`
 
 ## Dot
 
@@ -31,34 +31,34 @@ __`( [R F']² ; U/U2/U'/0 )³`__
 ## H = Line3
 
 __`[F]: [R U]³`__
-<br><small>`F R U R' U' R U R' U' R U R' U' F'`</small>
+<br>`F R U R' U' R U R' U' R U R' U' F'`
 
 ## (Sune)
 __`[R: U: R' U]`__
-<br><small>`R U R' U R U2 R'`</small>
+<br>`R U R' U R U2 R'`
 
 ## (Antisune)
 __`[L': U': L U']`__
-<br><small>`L' U' L U' L' U2 L`</small>
+<br>`L' U' L U' L' U2 L`
 
 ## Sune* = Antisune': T → Antisune*; Pi*** → Sune; U*** → Antisune***; L** → Antisune**
 
 __`L' U2; (L: U)²: L'`__
-<br><small>`L' U2 L U L' U L`</small>
+<br>`L' U2 L U L' U L`
 
 # Antisune*** = Sune'
 
 __`R U2; (R': U')²: R`__
-<br><small>`R U2 R' U' R U' R'`</small>
+<br>`R U2 R' U' R U' R'`
 
 # Pi*
 
 __`(R: U2: R2: U': R)²`__
-<br><small>`R U2 R2 U' R2 U' R2 U2 R`</small>
+<br>`R U2 R2 U' R2 U' R2 U2 R`
 
-U**
-`R2 D R' U2 R D' R' U2 R'`
+# U**
 `R2; [D] ||R' U2|| [R]`
+`R2 D R' U2 R D' R' U2 R'`
 
 L* = U**'
 `R U2 R D R' U2 R D' R2`

@@ -14,3 +14,5 @@
 <!-- TODO [R: U: R' U] == [: R U (R' U)] -->
 <!-- TODO , ; -->
 <!-- TODO (.. A₂) [.. A₂] -->
+
+<!-- TODO rm small -->
