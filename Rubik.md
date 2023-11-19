@@ -60,13 +60,13 @@ __`(R: U2: R2: U': R)²`__
 __`R2; [D] (R' U2)² [R]`__
 <br>`R2 D R' U2 R D' R' U2 R'`
 
-L* = U**'
-`R U2 R D R' U2 R D' R2`
-`[R] ||U2 R|| [D]; R2`
+# L* = U**'
+__`[R] (U2 R)² [D]; R2`__
+<br>`R U2 R D R' U2 R D' R2`
 
-L* = T***'
-`[x]: U R' U' L U R U' L'`
-`[x]: ||U|| [R'] ||U'|| [L]`
+# L* = T***'
+__`[x]: (U)² [R'] (U')² [L]`__ <!-- TODO R = L_ -->
+<br>`x U R' U' L U R U' L' x'`
 
 L*
 `x R' U R D' R' U' R D x'`
