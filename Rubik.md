@@ -6,7 +6,7 @@
 
 ## OneFitsAll
 
-__`( (R E)⁴ ; U/U2/U'/0 )²`__
+__`((R E)⁴; U/U2/U'/0)²`__
 <br>`(R E R E R E R E U/U2/U'/0)²`
 
 ## Line
