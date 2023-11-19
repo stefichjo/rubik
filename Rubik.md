@@ -10,12 +10,12 @@ __`( (R E)⁴ ; U/U2/U'/0 )²`__
 
 ## Line
 
-__`{F: R U}²`__
+__`[F: R U]`__
 <br><small>`F R U R' U' F'`</small>
 
 ## L shape
 
-__`{f: R U}²`__
+__`[f: R U]`__
 <br><small>`f R U R' U' f'`</small>
 
 ## Dot
@@ -26,34 +26,34 @@ __`Line ; L shape`__
 
 ## OneFitsAll - flips front right corner
 
-__`( {R F'}²² ; U/U2/U'/0 )³`__
+__`( [R F']² ; U/U2/U'/0 )³`__
 
 ## H = Line3
 
-__`{F}²: {R U}²³`__
+__`[F]: [R U]³`__
 <br><small>`F R U R' U' R U R' U' R U R' U' F'`</small>
 
 ## (Sune)
-__`<R U>²: {R' U}²`__
+__`[R: U: R' U]`__
 <br><small>`R U R' U R U2 R'`</small>
 
 ## (Antisune)
-__`<L' U'>²: {L U'}²`__
+__`[L': U': L U']`__
 <br><small>`L' U' L U' L' U2 L`</small>
 
 ## Sune* = Antisune': T → Antisune*; Pi*** → Sune; U*** → Antisune***; L** → Antisune**
 
-__`L' U2; [L U]²: L'`__
+__`L' U2; (L: U)²: L'`__
 <br><small>`L' U2 L U L' U L`</small>
 
 # Antisune*** = Sune'
 
-__`R U2; [R' U']²: R`__
+__`R U2; (R': U')²: R`__
 <br><small>`R U2 R' U' R U' R'`</small>
 
 # Pi*
 
-__`[R U2 R2 U' R]²`__
+__`(R: U2: R2: U': R)²`__
 <br><small>`R U2 R2 U' R2 U' R2 U2 R`</small>
 
 U**
