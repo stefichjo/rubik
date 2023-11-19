@@ -1,8 +1,9 @@
-<!-- TODO traditional notation of commutators -->
+<!-- TODO commutator A B A' B' = [A, B] -->
+<!-- TODO conjugate A B A' = [A: B] -->
 
 * `(A₁ .. A₂)` ≡ `A₁A₂`
 * `(A₁ .. A₂): B` ≡ `A₁BA₂`
-* `(A₁ .. A₂) :: (B₁ .. B₂)` ≡ `(A₁B₁ .. A₂B₂)` ≡ `A₁B₁B₂A₂`
+* `(A₁ .. A₂) :: (B₁ .. B₂)` ≡ `(A₁B₁ .. A₂B₂)` ≡ `A₁B₁A₂B₂`
 
 | `ABAB`  | `ABBA`  | `ABA'B'`  | `ABB'A'`  |
 |-|-|-|-|
