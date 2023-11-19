@@ -2,52 +2,59 @@
 
 <!-- TODO https://www.youtube.com/watch?v=GhmYBgLoQQg 2-look OLL -->
 
-CROSS Orientation
+# CROSS Orientation
 
-OneFitsAll
-`R E ×4` + `U/U2/U'/0` ×2
+## OneFitsAll
 
-Line
-`F (R U R' U') F'`
-`[F: R U]`
+__`( (R E)⁴ ; U/U2/U'/0 )²`__
 
-L shape
-`f (R U R' U') f'`
-`[f: R U]`
+## Line
 
-Dot
-`Line ; L shape`
+__`{F: R U}²`__
+<br><small>`F R U R' U' F'`</small>
 
------
+## L shape
 
-CORNERS Orientation
+__`{f: R U}²`__
+<br><small>`f R U R' U' f'`</small>
 
-OneFitsAll - flips front right corner
-`|| ([R F']) ||` + `U/U2/U'/0` ×3
+## Dot
 
-H = Line3
-`F (R U R' U')3 F'`
-`[F]: [R U]3`
+__`Line ; L shape`__
 
-(Sune):
-`R U R' U R U2 R'`
-`[(R U): R' U]`
+# CORNERS Orientation
 
-(Antisune):
-`L' U' L U' L' U2 L`
-`[(L' U'): L U']`
+## OneFitsAll - flips front right corner
 
-Sune* = Antisune': T → Antisune*; Pi*** → Sune; U*** → Antisune***; L** → Antisune**
-`L' U2 L U L' U L`
-`L' U2 ||(L U): L'||`
+__`( {R F'}²² ; U/U2/U'/0 )³`__
 
-Antisune*** = Sune'
-`R U2 R' U' R U' R'`
-`R U2 ||(R' U'): R||`
+## H = Line3
 
-Pi*
-`R U2 R2 U' R2 U' R2 U2 R`
-`||( R U2 R2 U' R )||`
+__`{F}²: {R U}²³`__
+<br><small>`F R U R' U' R U R' U' R U R' U' F'`</small>
+
+## (Sune)
+__`<R U>²: {R' U}²`__
+<br><small>`R U R' U R U2 R'`</small>
+
+## (Antisune)
+__`<L' U'>²: {L U'}²`__
+<br><small>`L' U' L U' L' U2 L`</small>
+
+## Sune* = Antisune': T → Antisune*; Pi*** → Sune; U*** → Antisune***; L** → Antisune**
+
+__`L' U2; [L U]²: L'`__
+<br><small>`L' U2 L U L' U L`</small>
+
+# Antisune*** = Sune'
+
+__`R U2; [R' U']²: R`__
+<br><small>`R U2 R' U' R U' R'`</small>
+
+# Pi*
+
+__`[R U2 R2 U' R]²`__
+<br><small>`R U2 R2 U' R2 U' R2 U2 R`</small>
 
 U**
 `R2 D R' U2 R D' R' U2 R'`
