@@ -30,7 +30,7 @@ __`Line; L shape`__
 __`([R F']²; U/U2/U'/0)³`__
 <br>`(R F' R' F R F' R' F U/U2/U'/0)³`
 
-## H = Line3
+## H = Line³
 
 __`[F]: [R U]³`__
 <br>`F R U R' U' R U R' U' R U R' U' F'`
