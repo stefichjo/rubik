@@ -63,6 +63,7 @@ __`(S E' M')²`__
 *(2×3 / … in a Cube)*
 
 ### 2×3 Boards
+<!-- TODO korrekter Name? -->
 
 __`(M' S' E')²`__
 
@@ -88,7 +89,7 @@ __`[M' S']`__
 ### 2×3 Crosses
 
 ```
-R2 … D2
+⇗R2⇙
   |L' D: F2|
     [R' D']
       ¦L¦ ¦D¦
@@ -149,12 +150,11 @@ B R'
 → Anaconda, 2×3 Spots
 
 ```
-¦D¦
-L'
+¦D¦, L'
 [B D]
 U2
 [B' R']
-U' L D'
+|U'|: L
 ```
 <br>`D U' L' B D B' D' U2 B' R' B R U' L D'`
 
@@ -265,7 +265,6 @@ Black mamba = R D L F' R L' D R' U D' B U' R' D'
 Green mamba = R D R F R' F' B D R' U' B' U D2
 Tangled = F B U D F B U D F B U D F2 B2
 Tetris = L R F B U' D' L' R'
-Don't cross line = F2 L2 R2 B2 E2
 Displaced Motif = L2 B2 D' B2 D L2 U R2 D R2 B U R' F2 R U' B' U'
 C U around = U' B2 U L2 D L2 R2 D' B' R D' L R' B2 U2 F' L' U'
 
